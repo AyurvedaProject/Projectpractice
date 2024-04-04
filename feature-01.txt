@@ -1,3 +1,0 @@
-my first line
-add new line
-add line after create feature-02 branch

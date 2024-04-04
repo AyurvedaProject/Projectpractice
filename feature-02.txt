@@ -1,6 +1,0 @@
-First line
-<<<<<<< HEAD
-add line in feature-01 branch
-=======
-add new one
->>>>>>> 863e555065a93d754a1253b20f8d07e2100ce5c6
